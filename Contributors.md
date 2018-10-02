@@ -24,7 +24,7 @@
 - [Mary Frances](https://github.com/maryfranceshull)
 - [Mitch Stevens](https://github.com/MitchStevens)
 - [Wenqin Wang](https://github.com/wenqinduke)
-- [Venkat sai kiran] (https://github.com/chvsai)
+- [Venkat sai kiran](https://github.com/chvsai)
 - [Cortney Thomas](https://github.com/cSparkle)
 - [Konnor Timmons](https://github.com/KonnorTimmons1297)
 - [bwoconnor](https://github.com/bwoconnor)
